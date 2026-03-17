@@ -1,0 +1,9 @@
+.carousel-item img {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+.centerimg {
+    position:relative;
+    left:450px;
+}
